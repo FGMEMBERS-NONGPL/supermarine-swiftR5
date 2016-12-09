@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <!-- path>dash.ac</path -->
+
+  <!-- Asi -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m>  -3.518 </x-m>
+      <y-m>  0.1107 </y-m>
+      <z-m>  0.395 </z-m>
+    </offsets>
+  </model>
+
+  <!-- AI -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/ai/ai.xml</path>
+    <offsets>
+      <x-m> -3.518 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.413 </z-m>
+    </offsets>
+  </model>
+
+     <!-- dme -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/dme/dme.xml</path>
+    <offsets>
+      <x-m> -3.518 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.282 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Alt -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m> -3.518 </x-m>
+      <y-m> 0.1109 </y-m>
+      <z-m> 0.299 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Turn -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m> -3.518 </x-m>
+      <y-m> -0.1109 </y-m>
+      <z-m> 0.299 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Hdg -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/hdg/hdg.xml</path>
+    <offsets>
+      <x-m>  -3.518 </x-m>
+      <y-m>  0.00 </y-m>
+      <z-m> 0.190 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Vsi -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m>  -3.518 </x-m>
+      <y-m> -0.106 </y-m>
+      <z-m>  0.394 </z-m>
+    </offsets>
+  </model>
+
+  <!-- oat -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/oat/air-temp.xml</path>
+    <offsets>
+      <x-m>  -3.373 </x-m>
+      <y-m>  0.329 </y-m>
+      <z-m>  0.308 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>  0.000 </pitch-deg>
+      <heading-deg> -41.000 </heading-deg>
+    </offsets>
+    </model>
+
+   <!-- ammeter -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/ammeter/ammeter.xml</path>
+    <offsets>
+      <x-m>  -3.372 </x-m>
+      <y-m>   0.330 </y-m>
+      <z-m>  0.215 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>  0.000 </pitch-deg>
+      <heading-deg> -41.000 </heading-deg>
+    </offsets>
+    </model>
+
+<!-- gear -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/gear/gear.xml</path>
+    <offsets>
+      <x-m>  -3.416 </x-m>
+      <y-m>  -0.284 </y-m>
+      <z-m>  0.248 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>  0.000 </pitch-deg>
+      <heading-deg> 41.000 </heading-deg>
+    </offsets>
+  </model>
+
+   <!-- oil-pressure -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/oil-p/oil-pressure.xml</path>
+    <offsets>
+      <x-m>  -3.415 </x-m>
+      <y-m>  0.273 </y-m>
+      <z-m>  0.213 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>   0.000 </pitch-deg>
+      <heading-deg> -41.000 </heading-deg>
+    </offsets>
+    </model>
+
+     <!-- exhaust gas temp -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/egt/egt.xml</path>
+    <offsets>
+      <x-m>  -3.487 </x-m>
+      <y-m>  0.20 </y-m>
+      <z-m>  0.318 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>   -1.000 </pitch-deg>
+      <heading-deg> -41.000 </heading-deg>
+    </offsets>
+    </model>
+
+      <!-- compressor spool %RPM -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/rpm/rpm.xml</path>
+    <offsets>
+      <x-m>  -3.426 </x-m>
+      <y-m>  0.270 </y-m>
+      <z-m>  0.319 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>  -1.000 </pitch-deg>
+      <heading-deg> -41.000 </heading-deg>
+    </offsets>
+    </model>
+
+ <!-- brake-hydraulics -->
+  <model>
+    <path>Aircraft/supermarine-swiftR5/Models/panel/Instruments/brake-hyd/triple.xml</path>
+    <offsets>
+      <x-m>  -3.417 </x-m>
+      <y-m>  -0.284 </y-m>
+      <z-m>  0.354 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>   0.000 </pitch-deg>
+      <heading-deg> 41.000 </heading-deg>
+    </offsets>
+  </model>
+
+
+</PropertyList>
